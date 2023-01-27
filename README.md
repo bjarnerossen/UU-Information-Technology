@@ -12,6 +12,6 @@ The course provides an introduction to the principles and technologies that unde
 | :---------- | :------------------------------- | :----: |
 | **OU1**: IT-history research  | `History`                        | ✅ |
 | **OU2**: Programming in Python   | `Python`                            | ✅|
-| [**OU3**: Programming in MIPS assembler](https://github.com/bjarnerossen/UU-Information-Technology/blob/main/MIPS-assembly-skeleton-ITMU-BR.s)  | `Assembly`                     | ✅|
+| [**OU3**: Programming in MIPS Assembly](https://github.com/bjarnerossen/UU-Information-Technology/blob/main/MIPS-assembly-skeleton-ITMU-BR.s)  | `Assembly`                     | ✅|
 | **DSIU - del 1**   | `Report` | ✅|
 | **DSIU - del 2** | `Report            | ✅|
