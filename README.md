@@ -14,4 +14,4 @@ The course provides an introduction to the principles and technologies that unde
 | **OU2**: Programming in Python   | `Python`                            | ✅|
 | [**OU3**: Programming in MIPS Assembly](https://github.com/bjarnerossen/UU-Information-Technology/blob/main/MIPS-assembly-skeleton-ITMU-BR.s)  | `Assembly`                     | ✅|
 | **DSIU - del 1**   | `Report` | ✅|
-| **DSIU - del 2** | `Report            | ✅|
+| **DSIU - del 2** | `Report`            | ✅|
