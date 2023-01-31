@@ -15,3 +15,6 @@ The course provides an introduction to the principles and technologies that unde
 | [**OU3**: Programming in MIPS Assembly](https://github.com/bjarnerossen/UU-Information-Technology/blob/main/MIPS-assembly-skeleton-ITMU-BR.s)  | `Assembly`                     | ✅|
 | **DSIU - del 1**   | `Report` | ✅|
 | **DSIU - del 2** | `Report`            | ✅|
+
+---
+> **DISCLAIMER:** *The code provided in this repository is for educational purposes only. It is intended to demonstrate various concepts and techniques related to programming and software development. The code is not intended to be used as a reference for academic work or submissions.*
