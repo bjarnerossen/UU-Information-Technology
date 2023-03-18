@@ -11,7 +11,7 @@ The course covers a variety of technologies related to Information Technology, i
 
 To get started with this repository, simply clone the repository to your local machine.
 ```terminal
-$ git clone https://github.com/bjarnerossen/uu-information-technology.git
+$ git clone https://github.com/bjarnerossen/UU-Information-Technology.git
 ```
 Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
 
