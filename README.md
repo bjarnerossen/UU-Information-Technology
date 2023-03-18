@@ -1,16 +1,23 @@
-# Information Technology: Possibilities and Challenges (UU-61235)
-
-## Information Technology course at Uppsala University
-### Course Description
+# Information Technology: Possibilities and Challenges course at Uppsala University (1DT110)
 The course provides an introduction to the principles and technologies that underpin modern IT systems as well as the ability to use and explain computer science terminology. Based on this, they discuss the possibilities offered by IT systems, the constraints of technology, and social, organisational, ethical, legal and security aspects of IT usage. The course is suitable for those who want to understand modern technology and need to communicate about IT systems with both experts and laymen, such as in order roles or as teachers.
 
----
-### 💻 Technologies
+## 💻 Technologies
 The course covers a variety of technologies related to Information Technology, including:
 
 * `Python programming language`
 * `MIPS Assembly language`
-### **🗓️ Course Outline**
+
+## 🚀 Getting Started
+
+To get started with this repository, simply clone the repository to your local machine.
+```terminal
+$ git clone https://github.com/username/uu-information-technology.git
+```
+Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
+
+
+
+## **🗓️ Course Outline**
 
 | Name        | Theme                           | Status |
 | :---------- | :------------------------------- | :----: |
